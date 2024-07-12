@@ -11,4 +11,5 @@ Uniform-example-CFA+DIF.R uses a confirmatory simple-structure MIRT model for DI
 Uniform-example-EML1+DIF.R first identifies the item-trait structure by the EML1 method and then uses the structure as confirmatory for DIF detection in the heuristic example. 
 
 Uniform-example-our.R uses our Bayesian adaptive Lasso procedure for simultaneously detecting item-trait relationship and DIF in the heuristic example. 
+
 Uniform-realdata.R implements real data analysis using our Bayesian adaptive Lasso procedure for the uniform DIF condition.
