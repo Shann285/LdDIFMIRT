@@ -13,3 +13,5 @@ Uniform-example-EML1+DIF.R first identifies the item-trait structure by the EML
 Uniform-example-our.R uses our Bayesian adaptive Lasso procedure for simultaneously detecting item-trait relationship and DIF in the heuristic example. 
 
 Uniform-realdata.R implements real data analysis using our Bayesian adaptive Lasso procedure for the uniform DIF condition.
+
+Parameter-MSE.pdf presents MSEs for each parameter estimate in study 2.
